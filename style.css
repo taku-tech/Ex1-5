@@ -20,4 +20,14 @@ header {
 	padding: 20px 0;
 
 }
-	
+
+.nav-list {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	text-align: center;
+}
+
+.nav-list-item {
+	display: inline-block;
+	padding: 15px 20px;
+}
